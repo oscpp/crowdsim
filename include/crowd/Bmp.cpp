@@ -1,7 +1,6 @@
 // Bmp.cpp
 // =======
-// BMP image loader
-// It reads only 8/24/32-bit uncompressed and 8-bit RLE compression format.
+// BMP image loader - It reads only 8/24/32-bit uncompressed and 8-bit RLE compression format.
 //
 // 2006-10-17: Improved flipImage()
 // 2006-10-10: Added getError() to return the last error message.
